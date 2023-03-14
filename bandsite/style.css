@@ -1,0 +1,75 @@
+body {
+    background-color: blueviolet;
+    color: rgb(35, 26, 101);
+    font-family: serif;
+}
+
+img {
+    width: 50%;
+}
+
+
+a {
+    color: rgb(35, 26, 101);
+}
+
+header {
+    background-image: url(images/foto\ olivia\ rodrigo\ 2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    margin-bottom: 25%;
+}
+
+nav {
+    background-color: blueviolet;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 20px;
+}
+
+nav a:hover {
+    color: indigo;
+    background-color: aliceblue;
+}
+
+section {
+    padding: 20px;
+}
+
+#tour {
+    background-color: rgb(95, 3, 181);
+}
+
+#tour li {
+    color: cornsilk;
+}
+
+#music {
+    background-color: rgb(95, 3, 181);
+
+}
+
+#home {
+    background-color: rgba(121, 3, 195, 0.945);
+}
+
+#merch {
+    background-color: rgb(121, 3, 195, 0.954);
+}
+
+#merch img {
+    width: 100%;
+}
+
+footer img {
+    width: 30px;
+}

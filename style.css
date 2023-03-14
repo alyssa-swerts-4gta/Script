@@ -1,0 +1,25 @@
+body {
+    background-color: #ba56d9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+
+}
+
+#about {
+    display: flex;
+    background-color: rgb(163, 125, 177);
+    border-radius: 40px;
+}
+
+a {
+    color: #5c0775;
+}
+
+.col {
+    flex: 1;
+    padding: 20px;
+}
+
+.right {
+    border-left: 2px solid rgb(182, 95, 222);
+}
