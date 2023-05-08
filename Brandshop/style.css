@@ -78,3 +78,8 @@ figcaption {
     padding: 4px;
     background-color: #9c25d4;
 }
+.korting{
+    color:white ;
+    background-color: rgb(221, 148, 243);
+    padding: 1rem;
+}
