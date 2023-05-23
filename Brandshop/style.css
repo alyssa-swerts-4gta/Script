@@ -98,7 +98,15 @@ figcaption {
 .korting {
     color: white;
     background-color: rgb(221, 148, 243);
+}
+
+.korting h2 {
     padding: 1.2rem;
+}
+
+.bgc-yellow {
+    background-color: yellow;
+    color: black;
 }
 
 footer {
